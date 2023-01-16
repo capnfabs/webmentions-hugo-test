@@ -26,4 +26,4 @@ title: TEST FOR WEBMENTIONS
 <a href="https://webmention.rocks/test/20">Test 20</a>
 <a href="https://webmention.rocks/test/21">Test 21</a>
 <a href="https://webmention.rocks/test/22">Test 22</a>
-<a href="https://webmention.rocks/test/23">Test 23</a>
+<a href="https://webmention.rocks/test/23/page">Test 23</a>
