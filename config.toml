@@ -12,3 +12,6 @@ theme = "paper"
       linkify = false
     [markup.goldmark.parser.attribute]
         block = true
+
+[params]
+  twitter = 'capnfabs'
